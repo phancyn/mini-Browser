@@ -18,9 +18,9 @@
 
 2. Установите необходимые зависимости:
 ```
-bash
 pip install PyQt5
 pip install PyQtWebEngine
+pip install pywin32
 ```
 
 ## 🛠 Технологии
